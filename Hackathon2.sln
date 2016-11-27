@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7B0436A9-94A9-F171-42B5-FE862A2AC75C}") = "Hackathon2", "Assembly-CSharp.csproj", "{154AD38C-F16F-5909-804C-D80274E7EE68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{154AD38C-F16F-5909-804C-D80274E7EE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154AD38C-F16F-5909-804C-D80274E7EE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154AD38C-F16F-5909-804C-D80274E7EE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154AD38C-F16F-5909-804C-D80274E7EE68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
